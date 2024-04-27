@@ -1,2 +1,1 @@
-# rushirbhavsar.github.io
-All about me
+Nothing
