@@ -1,3 +1,22 @@
 theme: jekyll-theme-minimal
-title: Rushir's homepage
+title: Rushir Bhavsar
 description: Bookmark this to keep an eye on my project updates!
+
+# Add personal details and a photo
+name: Rushir Bhavsar
+bio: Welcome to my homepage! I'm a Master's student in Data Science at Arizona State University, exploring the intersection of machine learning, big data, and robotics. Here you'll find updates on my projects, publications, and more.
+
+# URL to a photo of Rushir Bhavsar (make sure the URL is correct)
+# photo: https://your-image-url.com/photo.jpg
+
+# Social media or other relevant links
+links:
+  - label: Email
+    icon: fa fa-envelope
+    url: mailto:bhavsarrushir@gmail.com
+  - label: LinkedIn
+    icon: fa fa-linkedin
+    url: https://www.linkedin.com/in/rushir-bhavsar/
+  - label: GitHub
+    icon: fa fa-github
+    url: https://github.com/rushirbhavsar
